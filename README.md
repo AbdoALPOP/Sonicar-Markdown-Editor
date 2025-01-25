@@ -9,7 +9,7 @@ Free Markdown Editor with Export to .md and .html Feature
 - تصدير ك HTML
 
 - دعم اللغة العربية والإنجليزية
-- 
+
 - Preview your Content
 
 - Full Text Formatting Options
